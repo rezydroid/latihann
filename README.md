@@ -1,0 +1,2 @@
+# latihann
+ini latihan cloning
